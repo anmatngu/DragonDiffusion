@@ -1,7 +1,7 @@
-from src.demo.download import download_all
-download_all()
+# from src.demo.download import download_all
+# download_all()
 
-from src.demo.demo import create_demo_move, create_demo_appearance, create_demo_drag, create_demo_face_drag, create_demo_paste
+# from src.demo.demo import create_demo_move, create_demo_appearance, create_demo_drag, create_demo_face_drag, create_demo_paste
 from src.demo.model import DragonModels
 
 import cv2
